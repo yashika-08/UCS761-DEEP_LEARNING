@@ -1,7 +1,7 @@
 # UCS761 – Deep Learning Lab Assignments
 
-**Name:** Yashika
-**Roll Number:** 102303439
+**Name:** Yashika  
+**Roll Number:** 102303439  
 **Group:** 3C33
 
 ## Repository Description
